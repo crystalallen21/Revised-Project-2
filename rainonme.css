@@ -1,0 +1,36 @@
+h1{
+    
+    padding-left: 450px;
+    font-family: sans-serif;
+    
+}
+
+.list{
+    font-family: sans-serif;
+    padding-left: 550px;
+    font-size: 15pt;
+    position: relative;
+    top: 60px;
+}
+
+.lady img{
+    
+    padding-left: 160px;
+    float: right;
+    position:relative;
+    bottom:200px;
+}
+.iggy img{
+    position:relative;
+    bottom: 150px;
+    left: 100px;
+   
+    
+}
+
+.miley{
+    
+    position:relative;
+    left:600px;
+    bottom:300px;
+}

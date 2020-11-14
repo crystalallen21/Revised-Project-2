@@ -1,0 +1,43 @@
+.container{
+    width:1280px;
+    margin:0 auto;
+}
+
+.navbar{
+    
+}
+.navbar ul{
+    
+    text-align: center;
+}
+
+.navbar ul li {
+   list-style: none;
+    display:inline;
+    padding:10px;
+    font-family:sans-serif;
+    font-size: 30px;
+    position:relative;
+    bottom:800px;
+    color:gray;
+   
+}
+.awards img{
+    position:relative;
+    bottom: 750px;
+    left: 700px;
+}
+.headshot img{
+    position:relative;
+    bottom: 100px;
+}
+p{
+    width:600px;
+    height:372px;
+    position:relative;
+   bottom:700px;
+    left: 700px;
+    font-size: 18pt;
+    font-family: sans-serif;
+    color:grey;
+}
